@@ -10,3 +10,5 @@ This game was also developed thanks to learning from the links provided by my GP
 I am very grateful for that. So in the future, I will attach the references that I used in developing the Hollow Ping Pong Game in this README. 
 
 Continued....
+
+Update, overhauled all project contents into 1 bit Pong. What previously had a hollow theme became a 1 bit game theme.
