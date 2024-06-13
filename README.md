@@ -12,3 +12,5 @@ I am very grateful for that. So in the future, I will attach the references that
 Continued....
 
 Update, overhauled all project contents into 1 bit Pong. What previously had a hollow theme became a 1 bit game theme.
+
+13/06/2024 - The 1 bit pong project game is already playable. But there are no menu and settings, so there is only a base game that can be run directly. 
