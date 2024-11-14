@@ -3063,7 +3063,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
-  useDynamicBounce: 0
+  useDynamicBounce: 1
 --- !u!1 &800170296
 GameObject:
   m_ObjectHideFlags: 0
@@ -4406,7 +4406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
-  useDynamicBounce: 0
+  useDynamicBounce: 1
 --- !u!61 &1765124553
 BoxCollider2D:
   m_ObjectHideFlags: 0

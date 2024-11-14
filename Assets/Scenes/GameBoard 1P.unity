@@ -3098,7 +3098,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
-  useDynamicBounce: 0
+  useDynamicBounce: 1
   ball: {fileID: 1466037660}
 --- !u!114 &748169868
 MonoBehaviour:
@@ -3870,7 +3870,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
-  useDynamicBounce: 0
+  useDynamicBounce: 1
 --- !u!114 &1411376167
 MonoBehaviour:
   m_ObjectHideFlags: 0
