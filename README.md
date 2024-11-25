@@ -46,7 +46,7 @@ This project using Unity 2022.3.50f1
    ├── ...
    ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
       ├── ...
-      ├── 3rdParty                   # In this folder, there are several packages that you must add via Unity Package Manager
+      ├── 3rdParty                   # In this folder, there are several packages that you must add via link
       ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
       ├── ....
    ├── ...
@@ -72,7 +72,7 @@ The following controls are bound in-game, for gameplay and testing.
 ## 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2022.3.50f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
 
-You are **required to download several assets from the Unity Asset Store** to properly operate this game. All assets should be placed in the **3rdParty** folder. The assets that need to be downloaded are as follows:
+You are **required to download several assets from this link in below** to properly operate this game. All assets should be placed in the **3rdParty** folder. The assets that need to be downloaded are as follows:
 
 **Download Here:**
 - Monocrome Cave : https://adamatomic.itch.io/mc-caves
